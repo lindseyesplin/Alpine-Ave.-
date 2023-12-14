@@ -1,13 +1,12 @@
 body{
-    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAFVBMVEXn6ucAAADu8e7W2dbZ3NmVl5WZm5nM/7ToAAAAgklEQVR4nO3SgQnEMBADwZPPcf8l/0NqMA5mpoIVqJKn61a9kkqP0x0bjU49Nw/8T1x170Vf83QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACf1acDNpu1xumGrcaq9M0Tx0wla57u2Gau5Ad4owB01IyBxgAAAABJRU5ErkJggg==');
+    background-image: url('https://t4.ftcdn.net/jpg/02/83/56/21/360_F_283562109_slimMqhTjUHZ9MIx5DBHnJJ69nK9jhkS.jpg');
     background-repeat: repeat-y;
     background-size: cover;
 }
 .tableaustyle{
     display:block;
     margin: auto !important; 
-    width: 200;
-    height: 300;
+    width: 100%;
 }
 
 h1{
@@ -17,6 +16,9 @@ h1{
 }
 h4{
     background-color: rgb(217, 172, 89) ;
+    display: block;
+    width: 100%;
+    text-align: left;
 }
 .img-center{
     width: 50%;
@@ -51,3 +53,4 @@ h4{
     text-align: right;
     right: 0px;
      }
+    
